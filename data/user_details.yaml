@@ -1,0 +1,16 @@
+uk:
+  user:
+    default:
+      email: xx@xx.com
+      password: xxx
+    favourites:
+      email: xxx@xx.com
+      password: xxx
+pl:
+  user:
+    default:
+      email: xxx@xxxx.com
+      password: qwerty123
+    favourites:
+      email: xxx@xxx.com
+      password: xxx

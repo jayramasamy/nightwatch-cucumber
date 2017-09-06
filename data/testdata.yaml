@@ -1,0 +1,10 @@
+search:
+  term1: cola
+  term2: beer
+users:
+  user1:
+    username: xxxx@xxxx.com
+    password: xx
+  user2:
+    username: xxx@xx.com
+    password: xxx
